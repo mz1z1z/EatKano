@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/mz1z1z/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
-# EatKano
+# 堂子哥的奇幻漂流
 
 _🦌 网页小游戏 🥛_
 
@@ -12,13 +12,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
-
-[鹿乃b站](https://space.bilibili.com/316381099)
-|
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+小游戏：堂子哥的奇幻漂流
 
 ## 可选功能
 
@@ -32,4 +26,4 @@ _🦌 网页小游戏 🥛_
 
 可修改和续写，需保留跳转此仓库的开源按钮
 
-如整成自己想要的吃掉xxx，可以Fork一份改下图和字，并在github pages运行，不会请参考[视频教程](https://www.bilibili.com/video/BV1jT4y1y7kA)
+如整成自己想要的吃掉xxx，可以Fork一份改下图和字，并在github pages运行。
